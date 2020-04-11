@@ -1,0 +1,4 @@
+R:\CSE483\VCStudio\WindowsProgramming\MMTimer\bin\Debug\MMTimer.dll
+R:\CSE483\VCStudio\WindowsProgramming\MMTimer\bin\Debug\MMTimer.pdb
+R:\CSE483\VCStudio\WindowsProgramming\MMTimer\obj\Debug\MMTimer.dll
+R:\CSE483\VCStudio\WindowsProgramming\MMTimer\obj\Debug\MMTimer.pdb
